@@ -1,0 +1,66 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.amap.api.service.AMapService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="org.android.agoo.accs.AgooService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.auidebugger.AuiDebugService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.drive.car.navi.naviwidget.AutoNaviFloatViewWidgetService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.autonavi.common.impl.BackgroundService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.yunos.carkitservice.CarKitService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.taobao.accs.ChannelService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.taobao.accs.ChannelService$KernelService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.LeakUploadService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.xiaomi.mipush.sdk.MessageHandleService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.taobao.accs.data.MsgDistributeService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.alipay.android.app.MspService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="anetwork.channel.aidl.NetworkService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.xiaomi.mipush.sdk.PushMessageHandler">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.q.m.QS">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.life.realscene.service.RealSceneUploadService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.shenma.speechrecognition.ShenmaRecognitionService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.TaobaoIntentService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="com.taobao.agoo.TaobaoMessageIntentReceiverService">
+ 	</prescription>
+	<prescription type="service" sender="any" package="com.autonavi.minimap" class="mtopsdk.xstate.XStateService">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.taobao.agoo.AgooCommondReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.autonavi.map.intent.AmapActionBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.amap.api.service.BootEventReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.taobao.accs.EventReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="org.android.agoo.huawei.HuaWeiReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.appdownload.InstallListener">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="org.android.agoo.xiaomi.MiPushBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.life.msgbox.MsgBoxBadgeReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.controller.PushSettingBroadcastReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.offline.receiver.SdCardReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.taobao.accs.ServiceReceiver">
+ 	</prescription>
+	<prescription type="broadcast" sender="any" package="com.autonavi.minimap" class="com.autonavi.minimap.WakeupReceiver">
+ 	</prescription>
+</prescriptions>
